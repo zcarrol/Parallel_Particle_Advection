@@ -1,0 +1,18 @@
+Serial average of 20 runs is: 0.162492
+
+Static schedule and 2 threads average of 20 runs is: 0.079512
+Dynamic schedule and 2 threads average of 20 runs is: 0.0784169
+Guided schedule and 2 threads average of 20 runs is: 0.0790784
+
+Static schedule and 4 threads average of 20 runs is: 0.0419615
+Dynamic schedule and 4 threads average of 20 runs is: 0.0422829
+Guided schedule and 4 threads average of 20 runs is: 0.0486143
+
+Static schedule and 6 threads average of 20 runs is: 0.0445483
+Dynamic schedule and 6 threads average of 20 runs is: 0.0421203
+Guided schedule and 6 threads average of 20 runs is: 0.0454392
+
+Static schedule and 8 threads average of 20 runs is: 0.0432973
+Dynamic schedule and 8 threads average of 20 runs is: 0.0410816
+Guided schedule and 8 threads average of 20 runs is: 0.0449309
+
