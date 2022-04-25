@@ -9,7 +9,7 @@ will contain information for 1, 2, 4, 6, and 8 thread count test runs at their r
 at for static dynamic and guided scheduling. Each of these scheduling types will run 20 each and the average run time will be the output
 to the file. 
 
-============================== Notes On Setup ========================
+### Notes On Setup
 
 1. The CMakeLists.txt should be modified to reflect the location of your vtk build directory
 
