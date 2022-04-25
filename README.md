@@ -1,5 +1,5 @@
 
-###How To Generate The Output Files
+### How To Generate The Output Files
 
 The output files that were generated using my virtual machine are included in the My_Output_Files folder and are there for reference.
 In order to produce these files on your machine I have included a bash script called Generate_Output_Files.sh. Running this may take
