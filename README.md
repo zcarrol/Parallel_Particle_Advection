@@ -24,7 +24,7 @@ to the file.
    if it exists. So if you are not using the provided bash script I recommend running from lowest
    thread count to the highest for easier reading of the output file. 
 
-   4a. The program will not allow thread counts of 10 or higher to account for accidental swapping 
+   4a. The thread count is capped at 10 to account for accidental swapping 
        of particle count and thread count
 
 5. Your mileage will vary. I ran my tests on a virtual machine with 4 cores allocated so the numbers
